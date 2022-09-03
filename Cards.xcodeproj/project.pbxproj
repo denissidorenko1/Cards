@@ -24,6 +24,8 @@
 		92F564D828C358700050FF37 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		92F564DB28C358700050FF37 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		92F564DD28C358700050FF37 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		92F564E328C35A3F0050FF37 /* ViewExperiments.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ViewExperiments.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		92F564E528C3B1010050FF37 /* BezierExperiments.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BezierExperiments.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		92F564C328C358700050FF37 = {
 			isa = PBXGroup;
 			children = (
+				92F564E428C3B0DB0050FF37 /* Playground Files */,
 				92F564CE28C358700050FF37 /* Cards */,
 				92F564CD28C358700050FF37 /* Products */,
 			);
@@ -65,6 +68,15 @@
 				92F564DD28C358700050FF37 /* Info.plist */,
 			);
 			path = Cards;
+			sourceTree = "<group>";
+		};
+		92F564E428C3B0DB0050FF37 /* Playground Files */ = {
+			isa = PBXGroup;
+			children = (
+				92F564E328C35A3F0050FF37 /* ViewExperiments.playground */,
+				92F564E528C3B1010050FF37 /* BezierExperiments.playground */,
+			);
+			path = "Playground Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
