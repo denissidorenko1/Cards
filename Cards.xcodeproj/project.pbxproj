@@ -26,6 +26,7 @@
 		92F564DD28C358700050FF37 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		92F564E328C35A3F0050FF37 /* ViewExperiments.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ViewExperiments.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		92F564E528C3B1010050FF37 /* BezierExperiments.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BezierExperiments.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		92F564E728C53A040050FF37 /* Shapes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Shapes.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +76,7 @@
 			children = (
 				92F564E328C35A3F0050FF37 /* ViewExperiments.playground */,
 				92F564E528C3B1010050FF37 /* BezierExperiments.playground */,
+				92F564E728C53A040050FF37 /* Shapes.playground */,
 			);
 			path = "Playground Files";
 			sourceTree = "<group>";
